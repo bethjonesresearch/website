@@ -1,7 +1,23 @@
+---
+title: "Academic work when you don't feel like doing anything"
+date: 07/06/2022
+date-modified: 11/02/2025
+date-format: iso
+layout: post
+toc: true
+title-block-style: default
+title-block-banner: "#000000"
+title-block-banner-color: "#1580ad"
+---
 
+::: {.callout-note}
 
-#### Disclaimer
-I first wrote this blog draft back in 2022, and it has been edited and resurrected for this version of my site. If you've been a reader for a while this means you've likely read this before. I hope it's just as useful this time around!
+I first wrote this blog draft back in 2022, and it has been edited and
+resurrected for this version of my site. If you've been a reader for a
+while this means you've likely read this before. I hope it's just as
+useful this time around!
+
+:::
 
 This post is brought to you by the current UK heatwave, and the number of people I've spoken to who just don't have the concentration to do much at all. When you're having an "off" day, or you haven't slept, or something is on your mind, or you're burned out or overwhelmed it can feel even more pressured to deliver on doing something. Anything! 
 

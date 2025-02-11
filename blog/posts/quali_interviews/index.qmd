@@ -1,5 +1,6 @@
 ---
 title: "Qualitative research interviews and 15 minutes of panic"
+description: "My ongoing worry about getting good quality qualitative data." 
 date: 07/06/2022
 date-modified: 11/02/2025
 date-format: iso
@@ -32,46 +33,127 @@ participant is saying. You also want to be sure that your participant
 knows you are listening and that you respect the time and personal 
 experience they are sharing with you. 
 
-2. Second, your brain is holding what people have told you in the conversation already, so that you can come back to it later in the interview if you want. You may be using an interview schedule with semi-structured interviews so may be mentally holding this up against a virtual timeline. You also want to ask thoughtful and relevant questions to unpick their experiences or perspectives based on what they have told you already.
+2. Second, your brain is holding what people have told you in the 
+conversation already, so that you can come back to it later in the 
+interview if you want. You may be using an interview schedule with 
+semi-structured interviews so may be mentally holding this up against 
+a virtual timeline. You also want to ask thoughtful and relevant 
+questions to unpick their experiences or perspectives based on what 
+they have told you already.
 
-3. While this isn't encouraged, you might also find yourself thinking long-term during this conversation. For example, you might wonder whether this data collection is in line with literature you’ve read on the topic, or whether it seems like it lines up with what other participants have told you. As I become more and more experienced, I am more able to ignore this part of my brain and focus on the conversation, rather than whether it 
+3. While this isn't encouraged, you might also find yourself thinking 
+long-term during this conversation. For example, you might wonder 
+whether this data collection is in line with literature you’ve read on
+ the topic, or whether it seems like it lines up with what other 
+ participants have told you. As I become more and more experienced, 
+ I am more able to ignore this part of my brain and focus on the 
+ conversation, rather than whether it fits with my expectations of the 
+ conversation.
 
-Interviewing research participants is a skill, and I found it took practice to learn to hold all of this in my head at once and still ask thoughtful and explorative questions to open up the discussion and generate rich qualitative data. 
+Interviewing research participants is a skill, and I found it took 
+practice to learn to hold all of this in my head at once and still ask 
+thoughtful questions to generate rich qualitative data. 
 
-4. I also know that I have an extra layer of thought during interview data collection that covers my confidence in myself as an interviewer. I really notice it  during minutes 15-30 of interview data collection. I’ve talked about this with a few other qualitative researchers, some identified with this feeling, and some didn’t. I’ve decided to talk about it (and the strategies I use to manage it) to other people collecting interview data.
+4. I also know that I have an extra layer of thought during qualitative
+ data collection that covers my confidence in myself as an interviewer. 
+ I really notice it  during minutes 15-30 of interview data collection. I
+ ’ve talked about this with a few other qualitative researchers, some 
+ identified with this feeling, and some didn’t. I’ve decided to talk 
+ about it (and the strategies I use to manage it).
 
 
 **SO, let's be honest**
 
-I have an irrational discomfort of minutes 15-30 when collecting interview data. I’ve tried to unpick it. It is built around the idea that I will start the interview smoothly, break the ice with some opening questions to start the discussion and then for no real reason at all, the participant and I will run out of stuff to talk about, and the interview will be cut short in a really awkward way. I have to hold an extra block of worry in my head here about whether the data I’m collecting is rich enough and whether I’m doing a good enough job as an interviewer to help the participant feel able to talk and share enough of their experience with me to generate “good” data. This is irrational. I know it is irrational because:
+I have an irrational discomfort during minutes 15-30 when collecting 
+interview data. I’ve tried to unpick it here. It is built around the idea 
+that I will start the interview smoothly, break the ice with some 
+opening questions to start the discussion and then for no real reason 
+at all, the participant and I will run out of stuff to talk about, and 
+the interview will be cut short in a really awkward way. I hold this
+extra brain space for worry about whether the data I’m collecting is 
+rich enough and whether I’m doing a good enough job as an interviewer 
+to help the participant feel able to share their experience with me and
+generate *“good”* data. This is irrational. I know it is irrational because:
 
 
-1. There’s nothing actually wrong with an interview being short. Qualitative research is interested in depth and richness of data, not how long it took for you to collect it. This is based on an incorrect assumption of some unconscious part of my brain that a longer interview = better. Sometimes it isn’t, and shorter interviews are necessary for practical reasons. For example, it would not be ethical as a researcher to conduct overly long interviews with people with health conditions that mean that a 1-hour interview with me would leave them fatigued and drained for several days afterwards. People might also be busy but with valuable expertise that can really help a research study and so can only spare 15-20 minutes of their time for an interview. 
+1. There’s nothing actually wrong with an interview being short. 
+Qualitative research is interested in depth and richness of data, not 
+how long it took for you to collect it. This is based on an incorrect 
+assumption of some unconscious part of my brain that a longer 
+interview = better. Sometimes it isn’t, and shorter interviews are 
+necessary for practical reasons. For example, it would not be ethical 
+as a researcher to conduct overly long interviews with people with 
+health conditions that mean that a 1-hour interview with me would 
+leave them fatigued and drained for several days afterwards. People 
+might also be busy, but have valuable expertise that can really help a 
+research study and so can only spare 15-20 minutes of their time for 
+an interview. 
 
 
 
-2. Sometimes an interview might be short, but we cover all we need in that time. Longer interviews don’t guarantee rich data. 
-Despite my fear of running out of stuff to talk about, there is usually an interview schedule there to guide discussion. There’s no pressure for participants to talk for so long that we run for over 30 minutes, but there will likely be some kind of list of questions or topic guide there for me to rely on. I most commonly collect data using semi-structured interviews so ask questions or discuss things that are not on the interview schedule, and this is common. This means that I’ve got plenty available to me to ask about during minutes 15 to 30, or I can pick up threads that the participant started talking about and ask them to tell me more. 
+2. Sometimes an interview might be short, but we cover all we need in 
+that time. Longer interviews don’t guarantee rich data. Despite my 
+fear of running out of stuff to talk about, there is usually an 
+interview schedule there to guide discussion. There’s no pressure for
+ participants to talk for so long that we run for over 30 minutes, but 
+ there will likely be some kind of list of questions or topic guide 
+ there for me to rely on. I most commonly collect data using 
+ semi-structured interviews so ask questions or discuss things that are
+  not on the interview schedule, and this is common. This means that 
+  I’ve got plenty available to me to ask about during minutes 15 to 30, 
+  or I can pick up threads that the participant started talking about 
+  and ask them to tell me more. 
 
 
-3. Crucially, this “running out of stuff to talk about” hasn’t happened to me before. A participant and I tend to get talking when we start the interview and set the scene and move our way through our “conversation with a purpose” easily. People tend to choose to take part in research that relates to them, or that they are interested in and this tends to mean that they have stuff to say on the topic.  This will help, and this will benefit you. 
+3. Crucially, this *“running out of stuff to talk about”* hasn’t 
+**actually** happened to me before. A participant and I tend to get 
+talking when we start the interview and set the scene and move our way 
+through our “conversation with a purpose” easily. People tend to 
+choose to take part in research that relates to them, or that they are
+ interested in and this tends to mean that they have stuff to say on 
+ the topic.  This will help, and this will benefit you. 
 
-I find that once my interview hits the 30-minute mark I tend to relax. Paradoxically and so predictably, my interview technique is always better, and the interview flows more comfortably. I feel more relaxed and more able to get the best out of my participants because I’m more in the moment, more responsible to the little things they tell me that I want to know more about, and more able to actively listen. Even though I know this, every single time I do an interview, I worry during minutes 15-30. 
+I find that once my interview hits the 30-minute mark I tend to relax. 
+This also means that my interview technique is always better, and the 
+interview flows more comfortably. I feel more relaxed and more able to
+get the best out of my participants because I’m more in the moment, 
+more responsible to the little things they tell me that I want to know 
+more about, and more able to actively listen. Even though I know this, 
+every single time I do an interview, I worry during minutes 15-30. 
 
 
 So what to do about this? 
 
 
-For those who may also struggle with worrying about their data collection actually getting in the way of their data collection, I’ve picked up a few techniques along the way to help!
-1. When I start recording, I cover the time up for a little while. It’s important to be respectful of participants’ time and not overrun, but I feel more relaxed when I cover the clocks for a little while to start. This involves flipping my Dictaphone screen down once I’ve checked it’s recording, and sometimes using a sticky note on my computer clock to stop me peeking. I have to remove this at some point during the interview to be sure that I haven’t taken up too much of the participants’ time but not being able to see it all the time takes some of the struggle out of it. 
+For those who may also struggle with worrying about their data 
+collection actually getting in the way of their data collection, I’ve 
+picked up a few techniques along the way to help!
 
 
-2. Where I can, I pilot my interview schedule with a colleague and ask them to be deliberately vague so I can figure out where my “unpicking points” are, where I might ask them to expand or tell me more on specific questions to understand more about the topic and their experiences.
+1. When I start recording, I cover the time up for a little while. 
+It’s important to be respectful of participants’ time and not overrun, 
+but I feel more relaxed when I cover the clocks for a little while to 
+start. This involves flipping my Dictaphone screen down (if I'm using 
+one) once I’ve checked it’s recording, and sometimes using a sticky
+ note on my computer clock to stop me peeking. I have to remove this 
+ at some point during the interview to be sure that I don't take 
+ up too much of the participants’ time but not being able to see it 
+ all the time takes some of the struggle out of it. 
 
 
-3. I have a few questions on my interview schedule highlighted as “minutes 15-30” questions, so once we’ve broken the ice, I know it’ll open up discussion of the topic.
+2. Where I can, I pilot my interview schedule with a colleague and ask 
+them to be deliberately vague so I can figure out where my “unpicking 
+points” are, where I might ask them to expand or tell me more on 
+specific questions to understand more about the topic and their experiences.
 
 
-4. Sitting with the knowledge that the data I collect will be ok, and that the experiences that participants share will tell me something meaningful in some way, and that’s always appreciated.
+3. I have a few questions on my interview schedule highlighted as 
+“minutes 15-30” questions, so once we’ve broken the ice, I know it’ll 
+open up discussion of the topic.
 
-I’d be interested to know other peoples’ experiences of their thoughts and planning when they carry out qualitative research, or if anyone has a similar 15-30 minute problem!
+
+4. Sitting with the knowledge that the data I collect will be ok, and 
+that the experiences that participants share will tell me something 
+meaningful in some way, and that’s always appreciated.
+
+#### I’d be interested to know other peoples’ experiences of their thoughts and planning when they carry out qualitative research, or if anyone has a similar 15-30 minute problem!
