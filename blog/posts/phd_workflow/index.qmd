@@ -1,0 +1,47 @@
+---
+title: "My PhD workflow and finding structure"
+date: 03/06/2022
+date-modified: 11/02/2025
+date-format: iso
+layout: post
+toc: true
+title-block-style: default
+title-block-banner: "#000000"
+title-block-banner-color: "#FFFFFF"
+---
+
+#### Disclaimer
+I first wrote this blog draft back in 2022, and it has been edited and resurrected for this version of my site. If you've been a reader for a while this means you've likely read this before. I hope it's just as useful this time around!
+
+The thing about doctorates is that there is a huge amount of flexibility in what each one looks like, and what life is like for you during yours. You may have coursework, modules, or milestones to do along the way, but you also have one **really** big deadline (whether that's a thesis or portfolio) at least 3 years from your start date. You may have come to your doctorate from work or professional life, or from studying, from caring responsibilities, or travel, or a career break - basically, from anywhere! 
+
+No two paths or doctorate journeys are the same, and the day-to-day life of doctorates will be equally varied and diverse. Finding a routine and structure to let you get the work done without it taking over your life is really important for actually being able to enjoy your doctorate. 
+
+I came to my PhD from working full time and studying for an MSc in my evenings part time, so the idea of just having the one thing to think about felt pretty good. I came into a team and with a supervisor who strongly encouraged me to keep some form of regular hours (whether that was 8-4, 9-5 or similar) to maintain momentum and to spend time with the researchers around me to learn from them. My PhD experience was also shaped by the fact that I did it in the Before Times, and have a health condition that means I can be fatigued in the mornings so need to manage my energy carefully through the day.  
+
+So during my PhD, my “getting stuff done” system looked like this:
+
+
+### Organisation
+To take responsibility for holding everything about my PhD out of my head (it got pretty full after a while), I used an app called [Todoist](http://todoist.com/). This is available in web browser form and also in an app which I kept on my phone for those 4am or bike ride thoughts. 
+
+When I first wrote this blog in 2022, this was my set up on the app. You'll see it includes a list of papers I planned to read, ideas I had for projects or papers or general thoughts for work (they included my “writing backlog” list).
+
+![Todoist workflow showing the following list of categories: projects, week view, papers to read, a personal section, and big ideas.](old_todoist.jpg)
+
+At the time of my PhD I had an overall “Project management” section, a “PhD admin” section for booking travel, writing minutes, completing forms etc., and a subsection for each project that contributed to my thesis. When it came to thesis writing, I also had a Thesis subsection with a to do list for each chapter. Todoist has a free tier with a 5 project maximum, but I use the paid premium option. It became a lifeline during my PhD for keeping track of where I am. The way that I use this app has evolved over time, but as a newcomer to managing a long-term project it was a real help during my PhD. 
+
+My reading from articles and reports was stored on my university cloud in a central “Reading and Thoughts” document. I'm a piler, not a filer, which became really useful towards the end of the writing process as I found that everything was in one place when I needed to find that *one* paper that said something crucial. 
+
+My abstract thinking, draft minutes, and project mapping tended to happen on paper in an “everything notebook” (See [Dr Raul Pacheco-Vega’s amazing blog posts](http://www.raulpacheco.org/resources/the-everything-notebook) on PhDs and notebooks). This notebook tended to live at work in my desk drawer, but I started carrying it with me everywhere towards the last year of my PhD in case I thought of some phrasing for my thesis.
+
+### Productivity
+I shamelessly **LOVE** a Gantt chart. Part of my PhD registration process required a Gantt chart, and I started a habit of putting the tasks for that month into a calendar slot for me for the first working day of each month. This helps me to know where my energy needs to go that month and helped me keep my project to time. I also made a thesis writing Gantt chart at about the 18 months stage, but that’s a post for another time. 
+
+
+I like working using the Pomodoro technique (25 minutes of writing, 5 minutes break and described in a great way by [Prof Inger Mewburn at the Thesis Whisperer blog](https://thesiswhisperer.com/2011/06/02/another-way-to-write-1000-words-a-day)). I decided that for me, 10 focused pomodoros every work day (about 5 hours of work) was enough for me to maintain momentum during my PhD. This went up to 12 (so about 6 hours) during my final year. This meant that the amount of time I spent actually working was in my hands and dependent on my focus - if I got these pomodoros done by 2pm, I got to go home and watch tv and that was a pretty motivating factor. 
+
+Meetings and talks and similar all counted towards this total for me and I tracked it using, you guessed it, a Todoist board with 10 “Pomodoro tick boxes” that were set to recur every working day. If I didn’t get that many done I didn’t beat myself up about it. A doctorate is a marathon and not a sprint but I found that this amount of time reading/writing/thinking/meeting kept momentum going for me and held me accountable to my time. This also meant if all my pomodoros were done by 3pm then I’d go home guilt free!  
+
+I track my pomodoros using the Forest app (https://www.forestapp.cc) that gives me a little tree to keep alive, and if I play with my phone in that time then the tree dies and I feel guilty about virtual tree murdering. There’s a Chrome extension too. More recently, as I’ve been working from home I’ve just left my phone in another room and tracked my timings using a snazzy set of egg times from my partner. 
+ 

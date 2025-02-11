@@ -1,3 +1,7 @@
+
+#### Disclaimer
+I first wrote this blog draft back in 2022, and it has been edited and resurrected for this version of my site. If you've been a reader for a while this means you've likely read this before. I hope it's just as useful this time around!
+
 I'm going to open this post by telling you that there are literally hundreds of people who know more about this than I do. I'm also going to tell you that there are posts that will be more detailed and comprehensive and expert than mine, and I'll link to some of them at the bottom. With that in mind, I've decided to write this anyway. I know plenty of PhD students who are in the early stages of their PhD and are feeling at a bit of a loss about how to actually get started writing their thesis. There is amazing work there about writing tiny texts and weaving red threads of narrative through your thesis. Where I come in is the process of getting started, and getting something down on paper. 
 
 Blank documents are scary. I wrote my thesis in Microsoft Word (I sometimes use other programmes like Scrivener or LaTeX, but it suited my supervisors and my work computer better). To get around the fear of the blank page, I created a fresh document for every chapter so I wasn't overwhelmed by all of the blankness, and put the title for each chapter along with a few sentences of what the chapter may cover. For example, for methods this was:

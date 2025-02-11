@@ -1,3 +1,8 @@
+
+
+#### Disclaimer
+I first wrote this blog draft back in 2022, and it has been edited and resurrected for this version of my site. If you've been a reader for a while this means you've likely read this before. I hope it's just as useful this time around!
+
 Working in academia means that you often need to apply for things (jobs, grant applications, fellowships) that are very competitive. Statistics from UK Research and Innovation (UKRI) suggest that the success rate from grant applications was 21% in 2021. This means that around 4/5 people who applied for grants via UKRI competitive funding processes were left disappointed. 
 
 

@@ -3,7 +3,6 @@ title: "Dr Beth Jones"
  
 about:
     template: solana
-    image: #TODO
 
 
 ---

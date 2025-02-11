@@ -11,31 +11,29 @@ project:
     - "files/**"
 
 # website metadata values
-description-meta: "Personal website with blogs on academia and social 
-science research."
+description-meta: "Personal website with blogs on academia and social science research."
 
 website:
   title: "Dr Beth Jones"
   repo-url: https://github.com/bethjonesresearch/website
   navbar:
-  logo: #TODO
     pinned: true
 
     left:
     - text: "Home"
       href: "index.qmd"
     - text: "CV"
-      href: #TODO
+      href: "cv/index.qmd"
     - text: "Publications"
-      href: #TODO
+      href: "publications/index.qmd"
     - text: "Blog"
       href: "blog/index.qmd"
     - text: "Contact"
-      href: #TODO
+      href: "contact/index.qmd"
 
   page-footer:
     border: true
-    left: |
+    right: |
       This site is built using [![](https://quarto.org/quarto.png){fig-alt="quarto" width=80px}](https://quarto.org)
     left: |
       Any opinions expressed are my own. [Report an issue](https://github.com/bethjonesresearch/website/issues) on GitHub.
@@ -43,7 +41,7 @@ website:
 
 format: 
   html:
-  css: files/styles.css
-  theme:
-    - flatly
-    - files/ #TODO
+    css: files/styles.css
+    theme:
+      - materia
+      - files//custom-light.scss
