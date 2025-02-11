@@ -1,0 +1,16 @@
+---
+title: "Dr Beth Jones"
+ 
+about:
+    template: solana
+    image: #TODO
+
+
+---
+
+I'm Beth and I am a health researcher with experience in long-term condition research and NHS workforce research. I'm interested in qualitative, quantitative, and mixed-methods research and also have a strong interest in public involvement in research.
+
+This site is a record of my CV and a place where I blog about some of my reflections and experiences. I hope it will serve as a record of lessons I’ve learned about research methods, life in academia, and early career issues along the way.
+
+
+### Where next?
