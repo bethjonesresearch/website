@@ -27,10 +27,11 @@ Blank documents are scary. I wrote my thesis in Microsoft Word (I sometimes use 
 
 As you'll see, it's pretty colloquial and not the "grown-up" language of academia, but it got me started and gave me a road map for everything else. 
 
+![Opening to a chapter, including the questions "what came up? What does this mean?"](open_section.jpg)
 
 Creating an outline was a required part of my progression process, and for me it was a really useful tool to get a sense of what I might write. Colleagues shared examples of their theses with me so I could understand some potential structures for literature reviews, or what sections were expected at my institution. I then decided what sub-sections may be useful in my own chapter - with variations in levels of detail depending on how much I had done so far. For example, this is a Winter 2017 document (I started my PhD in October 2016). I had started thinking about how I might introduce the project into Inflammatory Arthritis (IA), and what models I may need to introduce the reader to. As I had time to get to grips with some of the literature, this was fairly detailed and I had a sense of how many words these sections might be.
 
-#TODO picture
+![Structure of my planned PhD thesis, with subsections and word counts for each chapter](structure.jpg)
 
 However, there are sections I did not know much about yet. For example, my findings and discussion chapter for the second stage of my qualitative study. As you can see, it's still pretty vague. I knew that the maximum thesis word count for my institution was 80,000 words and mine hovers at about 70,000 words. This helped me figure out loosely how many words would be dedicated to each chapter and gave me a goal for each one. Most of my chapter sizes ended up pretty close, with quantitative results taking fewer than I'd expected and my discussion running long to balance it out.
 
@@ -39,8 +40,10 @@ I shared this with my supervisors, to check that there was nothing in there that
 Yes, but how to actually start writing?
 
 I am always caught up in the "perfect sentence vortex" (if this feels familiar, read here). I know if I can see the writing it is far easier to get sucked into playing with it, or thinking its rubbish as I go. I wrote huge portions of my thesis using dictation settings on Microsoft Word, and still use it as a way to get the scrappy first draft done. It means I can close my eyes, or take my glasses off or look away and just talk to the screen. My first draft is typically not very academic in the language, and gives me something to work with. It is also easier if you don't know the "right" sentence but just need something to exist. As an example, here is the first draft of my methods chapter:
+![Example screenshot of emy dictation, with sentences I write including the phrase "blah blah blah" when I'm not sure what to say.](dictated_text.jpg)
 
 This dictated version was then edited at my leisure over time. This then became...
+![A more complete version, where I removed the "blah"s and replaced it with what I actually wanted to say and polished the draft.](edited_text.jpg) 
 
 Sharing first drafts with anyone (especially supervisors) can feel exposing and tricky, and it is too easy to compare your first draft with someone else's finished draft. I'm hoping by sharing mine it will help to normalise the idea of your first draft being a bit scrappy and with gaps in, sometimes not knowing what it is you are trying to say.
 
@@ -50,13 +53,12 @@ These are my tips for mapping out my thesis out of fear of actually getting star
 
 Amazing resources for technical detail on thesis writing:
 
-https://patthomson.net/2019/09/16/a-planners-approach-to-the-first-draft/ 
+[Pat Thomson's approach to the first draft](https://patthomson.net/2019/09/16/a-planners-approach-to-the-first-draft/)
 
-https://patthomson.net/2019/02/11/tiny-texts-if-not-beautiful%e2%80%8b-small-is-pretty-darn%e2%80%8b-useful/ 
+[Pat Thomson's tiny texts blog](https://patthomson.net/2019/02/11/tiny-texts-if-not-beautiful%e2%80%8b-small-is-pretty-darn%e2%80%8b-useful/)
 
-https://patthomson.net/2019/09/16/a-planners-approach-to-the-first-draft/ 
+[Pat Thomson's 12 step process for a first draft](https://patthomson.net/2020/12/14/working-up-a-first-draft-a-twelve-step-strategy/) 
 
-https://patthomson.net/2020/12/14/working-up-a-first-draft-a-twelve-step-strategy/ 
+[Thesis Whisperer's "Your thesis is the map, not the journey"](https://thesiswhisperer.com/2017/11/15/8565/)
 
-https://thesiswhisperer.com/2017/11/15/8565/ 
 
