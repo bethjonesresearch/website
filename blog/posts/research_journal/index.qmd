@@ -1,0 +1,83 @@
+---
+title: "Research journals and the Everything Notebook"
+description: Everything you need to know about keeping everything in a notebook.
+date: 21/04/2025
+date-format: iso
+layout: post
+toc: true
+title-block-style: default
+title-block-banner: "#000000"
+title-block-banner-color: "cbf4f7"
+---
+
+I've been keeping a research journal for almost a decade now for 
+reading notes, ideas, and reflections on analysis. Nothing has shaped
+my thinking on this like the book *Making the Most of Your Research 
+Journal* by [Dr Nicole Brown](https://www.nicole-brown.co.uk/research-journal/).
+Dr Brown's book talks about the value of finding a research journal
+style that works for you so you are more likely to maintain it and 
+contribute to it. I've always maintained a digital system, initially 
+keeping my PhD reading notes in Microsoft Word documents and the same
+for all my meeting minutes. My reflections were often dictated directly
+into Microsoft Word using the dictate function so I wasn't tempted to
+self-edit as I go. When I discovered OneNote, I moved lock, stock and
+barrel into OneNote for everything, following Tiago Forte's [PARA system](https://fortelabs.com/blog/para/)
+with separate notebooks for Projects, Areas, Resources, and an Archive.
+
+The joy of a digital system, as Dr Brown's book will tell you, is the
+ability to keep digital media like videos, screenshots and links all
+in one place. I've dabbled with using [NotebookLM](https://notebooklm.google/)
+to summarise papers into podcasts when they are full of theoretical detail
+or hard to follow and these can be incorporated into OneNote pages. 
+I also like the OneNote system where you can enter meeting details
+(including attendee lists and meeting name) at the top of a document to
+aid my notetaking and reflections. I love the more creative and artistic
+examples in the research journal book which include quilts and clay, 
+but I'm just not there yet!
+
+Things that go into my journal include:
+
+
+1. Reading notes, with my own ideas or unanswered questions highlighted
+in yellow to stand out from notes about the paper.
+
+2. Meeting minutes and reflections, including actions that I can incorporate
+into a task tracker. 
+
+3. Mind maps of ideas as I try to understand potentially related concepts
+in my field.
+
+4. Designs of research materials e.g., interview schedules.
+5. First drafts of writing (I try to write 250 words a day, even if it's not about a specific project but is about my field). 
+6. Networking information (the *"People to follow up on"* list that 
+Dr Brown refers to after conferences or meetings).
+7. Goal setting or targets, broken down into SMART goals I can review 
+at the end of the quarter for myself. If I'm in a job with first-year 
+probation goals, these get incorporated here.
+8. A live link to any project Gantt charts, rather than keep a separate
+copy here that can end up on a different timeline to the original if I make edits.
+9. A "stuff to go in my CV" tracker (referred to in the book by the more
+professional "Achievement Tracker") as I don't know about you, but my
+CV gets updated in bursts rather than live.
+
+As a qualitative researcher, reflections and reflexivity help me to *think*, and Dr Brown
+refers to journalling as a process of active decision making, as well 
+as crucial for researcher wellbeing. The book includes practical 
+guidance on templates, specific types of entries, reflections on the ethics
+of research journalling and the role a journal can play in forming your
+identity as a researcher. It was a hugely formative book in helping me
+understand my voice and a holistic approach to my approach to research
+and I would fully recommend reading it!
+
+
+If you're definitely a hard-copy kind of person, I have to flag
+another important resource for you.
+Both the book and my own journey for the perfect journalling system
+brought me to the work of [Dr Raul Pacheco-Vega](https://www.raulpacheco.org/resources/the-everything-notebook/).
+Dr Pacheco-Vega writes about the benefit of an Everything Notebook. 
+His website provides detailed and practical advice on setting up and
+maintaining a hard copy Everything Notebook, which for these purposes can be
+a research journal. It's always inspiring and it **always** makes me want
+to go buy new stationery.
+
+### What is your system for managing knowledge as part of your research? What would your research journal look like?

@@ -1,0 +1,157 @@
+---
+title: "My (very well used) academic rejection tips and tricks"
+description: "Paper or grant rejection got you down? This is what I do to get over the slump."
+date: 29/06/2022
+date-modified: 11/02/2025
+date-format: iso
+layout: post
+toc: true
+title-block-style: default
+title-block-banner: "#000000"
+title-block-banner-color: "cbf4f7"
+---
+
+::: {.callout-note}
+
+I first wrote this blog draft back in 2022, and it has been edited and
+resurrected for this version of my site. If you've been a reader for a
+while, you may read this before. I hope it's just as
+useful this time around!
+
+:::
+
+
+Working in academia means that you often need to apply for things 
+(jobs, grant applications, fellowships) that are very competitive. 
+[Statistics from UK Research and Innovation (UKRI)](https://www.timeshighereducation.com/news/ukri-success-rates-fall-grant-applications-ramp#:~:text=According%20to%20the%20latest%20figures,per%20cent%20the%20year%20before.) suggest that the success rate from grant applications was 21% in 2021. This means that around 4 out 
+of 5 people who applied for grants via UKRI competitive funding 
+processes were left disappointed. 
+
+
+
+Rejection or not succeeding in applications is one thing, but the 
+amount of work required to submit a grant application is often large.
+A fellowship application (a type of funding that is typically several 
+years long and funds a specific researcher with a specific project 
+they designed to develop as a researcher as well as carry out the 
+project) can take months to develop and submit, sometimes with more t
+han one stage of the application. This can make the process of not 
+getting funding feel all the more painful and personal.
+
+
+The good news for you is that I have had a **lot** of practice at dealing 
+with rejection. I've been very fortunate to have a few small successful 
+grants (both leading the grant and as a co-applicant supporting other 
+people's work). Just by myself I've applied for (and been unsuccessful
+with) four different fellowship applications with more than one
+proposed project. That's a lot of hard work and a lot of being 
+disappointed. I've found that I really enjoy developing my research 
+ideas into a project and always really believe in the ideas I submit. 
+I've gotten to interview stages, or fallen just short of getting 
+funding so sometimes it's been so close that I can find myself 
+daydreaming about how much I'll enjoy the project, or what it would be like 
+to do it.  I've become better at dusting myself off and grieving for 
+the experiences I imagined having when developing the application. 
+
+
+In this blog post, I'm sharing my best advice and tips for coping with 
+unsuccessful applications based on plenty of trial and error of what works for me. 
+
+### Tip #1: Update your manager/co-applicants, and turn your email off
+
+Emails or letters that open with "We are sorry to inform you..." are 
+never welcome, let's be honest. It's tough, but it's also tough to be 
+the bearer of bad news to other people. It's good practice to let your 
+co-applicants who contributed to the application know that it has not 
+been successful, as well as anyone who wrote a letter of support or 
+similar. They will likely have to report on the outcome to their 
+university systems and update their own records, and it's courteous 
+to let them know after they spent time helping. 
+
+In my experience, the kind of people who are so lovely that you want
+to work with them are also the kind of people to send generous and 
+supportive emails expressing sympathies if you don't get a grant 
+application. I'm often not in the mental space to read those emails 
+straight away, so I put them into a "Kind Emails" folder, to read a 
+few weeks on when it doesn't feel so raw and to keep for those difficult 
+days. A few weeks later, they are often uplifting and encouraging boosts
+to my confidence.
+
+
+### Tip #2: Take time to feel the disappointment
+The  first time I got a rejection on a grant application it felt way 
+more painful than I'd expected it to. I found myself playing down my 
+disappointment to try and appear more "professional", like I knew that 
+this was a common outcome and I understood that it was part of academic 
+life. The second time I tried to do the same thing, even though I'd 
+adapted the first application based on feedback, strengthened it, and 
+spent another 9 months going through the process of refining it, doing 
+the admin for submission, and waiting for the outcome. I felt pretty 
+glum, and worried that I didn't have "what it took" to be an academic 
+if I'd had these two unsuccessful applications in row. These days, 
+with more experience of both types of grant application outcomes I 
+know I need to create some space for me to feel sad, or angry, or 
+disappointed, or like an imposter before I can move on. It takes so 
+long to go through the application process that we should allow some 
+time to say goodbye to the future we imagined when we planned the grant.
+I find this process tends to take a few days, and is usually less raw 
+after a week.
+
+### Tip #3: Do the stuff that makes you feel better
+In this time, do what feels good in the moment. I know that for me I 
+feel better after some exercise (usually a run or weightlifting) with 
+early 2000s emo music to help me get into the mindset of sitting with 
+the disappointment rather than push it down, baths, and time spent
+video-calling my small nieces who make me laugh. Certain podcasts 
+have also become part of my routine that talk about academia 
+realistically rather than the rose-tinted lens. [This episode](https://onthereg.buzzsprout.com/1187141/episodes/5729434-everything-is-terrible-but-at-least-we-have-pandemic-homewares) 
+of a favourite podcast of mine, *On the Reg* talks about dealing with 
+the emotional challenges of academia and gives me space to really feel
+any sadness about *what could have been*.It's easy to only see other 
+peoples' successes, so this helps me to validate that we're in a tough
+industry and in competitive roles. 
+
+### Tip #4: Looking after yourself
+I've talked a lot about how I respond to disappointment, but I also want
+to reflect on trying not to let difficult feelings about work take over.
+If you can, try not to think about work outside of work for too long.
+If you're able to, try to stick to a regular sleep schedule and eat 
+foods that feel good but also nourish your body, with some time 
+outdoors, exercise, or movement if this is possible for you. You'll 
+find a routine that works for you through trial and error. 
+
+
+### Tip #5: In time, review the feedback and consider a next step
+I know I am not ready to review feedback and think about whether I 
+can repackage and submit the work, or whether it is best to archive 
+the project for at least a month after I get the response. After a 
+while though, when I have more distance from the response I can step 
+back and critically evaluate the project in light of the feedback. 
+ 
+Discuss the outcome and feedback with your team of co-applicants and 
+supervisors to consider the next appropriate step. I submitted an 
+amended grant application to 3 different funders (building on feedback each time) 
+before deciding that it perhaps wasn't the best time for this project
+and that I should build up underpinning evidence first.
+
+
+
+### Tip #6: Don't be put off trying again
+It's not always easy to adapt and resubmit a grant, but you and your 
+co-applicants and mentors believed in this idea enough to put in so 
+much hard work to submit it. Lots and lots of unsuccessful applications 
+represent ideas that are strong and will make the world better, so 
+don't think because it has been unsuccessful once that it will be 
+unsuccessful again!
+
+
+
+### In summary,
+Grant applications are a big part of working in academia, and lots of 
+us are often high achievers not used to getting "no" as an answer. We 
+put a lot of our time and our soul and our ideas into these applications.
+so it is understandably painful when we don't get them. Taking time 
+to feel sad about them, creating a routine of activities to help cope,
+and taking the time to critically reassess your next steps can help 
+to make the disappointment bearable. I'd be really interested to 
+hear how other people respond to setbacks like this!
