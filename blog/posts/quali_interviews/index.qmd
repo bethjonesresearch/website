@@ -15,15 +15,15 @@ title-block-banner-color: "#1580ad"
 
 I first wrote this blog draft back in 2022, and it has been edited and
 resurrected for this version of my site. If you've been a reader for a
-while this means you've likely read this before. I hope it's just as
+while, you may have read this before. I hope it's just as
 useful this time around!
 
 :::
 
 
-As a researcher (and when I was a Qualitative Methodologist), I spend
-chunks of my time in work interviewing people about their thoughts and
-experiences to collect data. I've done over 500 interviews, so I’ve had
+As a researcher, I spend chunks of my time in work interviewing people 
+about their thoughts and
+experiences to collect data. I've done well over 500 interviews, so I’ve had
 time to reflect on some patterns in my thoughts and feelings when I
 interview someone. A challenge of interviews is that your focus needs
 to be in a few different places at once. 
@@ -44,25 +44,25 @@ they have told you already.
 3. While this isn't encouraged, you might also find yourself thinking 
 long-term during this conversation. For example, you might wonder 
 whether this data collection is in line with literature you’ve read on
- the topic, or whether it seems like it lines up with what other 
- participants have told you. As I become more and more experienced, 
- I am more able to ignore this part of my brain and focus on the 
- conversation, rather than whether it fits with my expectations of the 
- conversation.
+the topic, or whether it seems like it lines up with what other 
+participants have told you. As I become more and more experienced, I 
+am more able to ignore this part of my brain and focus on the 
+conversation, rather than whether it fits with my expectations of 
+the conversation.
 
 Interviewing research participants is a skill, and I found it took 
 practice to learn to hold all of this in my head at once and still ask 
 thoughtful questions to generate rich qualitative data. 
 
 4. I also know that I have an extra layer of thought during qualitative
- data collection that covers my confidence in myself as an interviewer. 
- I really notice it  during minutes 15-30 of interview data collection. I
- ’ve talked about this with a few other qualitative researchers, some 
- identified with this feeling, and some didn’t. I’ve decided to talk 
- about it (and the strategies I use to manage it).
+data collection that covers my confidence in myself as an interviewer. 
+I really notice it  during minutes 15-30 of interview data collection. 
+I’ve talked about this with a few other qualitative researchers, some 
+identified with this feeling, and some didn’t. I’ve decided to talk 
+about it (and the strategies I use to manage it).
 
 
-**SO, let's be honest**
+**So, let's be honest**
 
 I have an irrational discomfort during minutes 15-30 when collecting 
 interview data. I’ve tried to unpick it here. It is built around the idea 
@@ -89,20 +89,18 @@ might also be busy, but have valuable expertise that can really help a
 research study and so can only spare 15-20 minutes of their time for 
 an interview. 
 
-
-
 2. Sometimes an interview might be short, but we cover all we need in 
 that time. Longer interviews don’t guarantee rich data. Despite my 
 fear of running out of stuff to talk about, there is usually an 
 interview schedule there to guide discussion. There’s no pressure for
- participants to talk for so long that we run for over 30 minutes, but 
- there will likely be some kind of list of questions or topic guide 
- there for me to rely on. I most commonly collect data using 
- semi-structured interviews so ask questions or discuss things that are
-  not on the interview schedule, and this is common. This means that 
-  I’ve got plenty available to me to ask about during minutes 15 to 30, 
-  or I can pick up threads that the participant started talking about 
-  and ask them to tell me more. 
+participants to talk for so long that we run for over 30 minutes, but 
+there will likely be some kind of list of questions or topic guide 
+there for me to rely on. I most commonly collect data using 
+semi-structured interviews so ask questions or discuss things that are
+not on the interview schedule, and this is common. This means that 
+I’ve got plenty available to me to ask about during minutes 15 to 30, 
+or I can pick up threads that the participant started talking about 
+and ask them to tell me more. 
 
 
 3. Crucially, this *“running out of stuff to talk about”* hasn’t 

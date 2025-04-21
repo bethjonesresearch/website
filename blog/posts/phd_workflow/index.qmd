@@ -15,7 +15,7 @@ title-block-banner-color: "#1580ad"
 
 I first wrote this blog draft back in 2022, and it has been edited and 
 resurrected for this version of my site. If you've been a reader for a 
-while this means you've likely read this before. I hope it's just as 
+while, this means you've likely read this before. I hope it's just as 
 useful this time around!
 
 :::
@@ -30,7 +30,7 @@ along the way, but you also have one **really** big deadline (whether
 that's a thesis or portfolio) at least 3 years from your start date. 
 You may have come to your doctorate from work or professional life, 
 or from studying, from caring responsibilities, or travel, or a career 
-break - basically, from anywhere! 
+break.
 
 No two paths or doctorate journeys are the same, and the day-to-day 
 life of doctorates will be equally varied and diverse. Finding a 
@@ -94,7 +94,7 @@ process required a Gantt chart, and I started a habit of putting the
 tasks for that month into a calendar slot for me for the first working
 day of each month. This helps me to know where my energy needs to go 
 that month and helped me keep my project to time. I also made a thesis 
-writing Gantt chart at about the 18 months stage, but that’s a post 
+writing Gantt chart at about the 18 months stage, but thats a post 
 for another time. 
 
 
