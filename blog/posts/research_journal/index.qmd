@@ -1,12 +1,13 @@
 ---
 title: "Research journals and the Everything Notebook"
+description: Everything you need to know about keeping everything in a notebook.
 date: 21/04/2025
 date-format: iso
 layout: post
 toc: true
 title-block-style: default
 title-block-banner: "#000000"
-title-block-banner-color: "#1580ad"
+title-block-banner-color: "cbf4f7"
 ---
 
 I've been keeping a research journal for almost a decade now for 
@@ -35,15 +36,20 @@ examples in the research journal book which include quilts and clay,
 but I'm just not there yet!
 
 Things that go into my journal include:
+
+
 1. Reading notes, with my own ideas or unanswered questions highlighted
 in yellow to stand out from notes about the paper.
+
 2. Meeting minutes and reflections, including actions that I can incorporate
 into a task tracker. 
+
 3. Mind maps of ideas as I try to understand potentially related concepts
 in my field.
+
 4. Designs of research materials e.g., interview schedules.
 5. First drafts of writing (I try to write 250 words a day, even if it's not about a specific project but is about my field). 
-6. Networking information (the *"People to follow up on" list that 
+6. Networking information (the *"People to follow up on"* list that 
 Dr Brown refers to after conferences or meetings).
 7. Goal setting or targets, broken down into SMART goals I can review 
 at the end of the quarter for myself. If I'm in a job with first-year 
@@ -74,4 +80,4 @@ maintaining a hard copy Everything Notebook, which for these purposes can be
 a research journal. It's always inspiring and it **always** makes me want
 to go buy new stationery.
 
-## What is your system for managing knowledge as part of your research? What would your research journal look like?
+### What is your system for managing knowledge as part of your research? What would your research journal look like?

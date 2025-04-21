@@ -8,7 +8,7 @@ layout: post
 toc: true
 title-block-style: default
 title-block-banner: "#000000"
-title-block-banner-color: "#1580ad"
+title-block-banner-color: "cbf4f7"
 ---
 
 ::: {.callout-note}
@@ -121,27 +121,37 @@ outdoors, exercise, or movement if this is possible for you. You'll
 find a routine that works for you through trial and error. 
 
 
-
+### Tip #5: In time, review the feedback and consider a next step
+I know I am not ready to review feedback and think about whether I 
+can repackage and submit the work, or whether it is best to archive 
+the project for at least a month after I get the response. After a 
+while though, when I have more distance from the response I can step 
+back and critically evaluate the project in light of the feedback. 
  
-
-Tip #4 - In time, review the feedback and consider a next step
-
-
-
- I am not ready to review feedback and think about whether I can repackage and submit the work, or whether it is best to archive the project for at least a month after I get the response. After a while though, when I have more distance from the response I can step back and critically evaluate the project in light of the feedback. Discuss the outcome and feedback with your team of co-applicants and supervisors to consider the next appropriate step. I submitted an amended grant application to 3 different funders (building on feedback each time) before deciding that it perhaps wasn't the best time for this proposed project and that I should build up underpinning evidence first. My 4th attempt was with a different, more time-sensitive and to be honest, I'm still deciding what I do about that project.
-
-
-
-Tip #5 - Don't be put off trying again
+Discuss the outcome and feedback with your team of co-applicants and 
+supervisors to consider the next appropriate step. I submitted an 
+amended grant application to 3 different funders (building on feedback each time) 
+before deciding that it perhaps wasn't the best time for this project
+and that I should build up underpinning evidence first.
 
 
 
-It's not always easy to adapt and resubmit a grant, but you and your co-applicants and mentors believed in this idea enough to put in so much hard work to submit it. Lots and lots of unsuccessful applications represent ideas that are strong and will make the world better, so don't think because it has been unsuccessful once that it will be unsuccessful again!
+### Tip #6: Don't be put off trying again
+It's not always easy to adapt and resubmit a grant, but you and your 
+co-applicants and mentors believed in this idea enough to put in so 
+much hard work to submit it. Lots and lots of unsuccessful applications 
+represent ideas that are strong and will make the world better, so 
+don't think because it has been unsuccessful once that it will be 
+unsuccessful again!
 
 
 
-In summary,
-
-
-
-Grant applications are a big part of working in academia, and lots of us are often high achievers not used to getting "no" as an answer. We put a lot of our time and our soul and our ideas into these applications so it is understandably painful when we don't get them. Taking time to feel sad about them, creating a routine of activities to help cope, and taking the time to critically reassess your next steps can help to make the disappointment bearable. I'd be really interested to hear how other people respond to setbacks like this!
+### In summary,
+Grant applications are a big part of working in academia, and lots of 
+us are often high achievers not used to getting "no" as an answer. We 
+put a lot of our time and our soul and our ideas into these applications.
+so it is understandably painful when we don't get them. Taking time 
+to feel sad about them, creating a routine of activities to help cope,
+and taking the time to critically reassess your next steps can help 
+to make the disappointment bearable. I'd be really interested to 
+hear how other people respond to setbacks like this!
